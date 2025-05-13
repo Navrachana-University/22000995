@@ -1,6 +1,6 @@
 # 📘 Hindi Language Compiler using Flex and Bison
 
-## 👨‍💻 Developer Info
+## 👨‍💻 Developed By
 **Name:** Raj Mistry  
 **Enrollment No:** 22000995
 
